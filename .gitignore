@@ -1,3 +1,5 @@
+/.idea
+/.vscode
 *.py[c,o]
 *~
 \#*\#
